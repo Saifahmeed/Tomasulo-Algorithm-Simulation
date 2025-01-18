@@ -1,0 +1,5 @@
+3/12/2042: Focused on developing the instruction class and implemented all the instructions specified in the project requirements.
+
+4/12/204: Collaborated with Saif on the Execution Unit class, specifically working on the Issue and Write Back functions. Additionally, contributed to the branch prediction function.
+
+6/12/2024: Addressed errors encountered during the test case runs and completed 2 out of the 3 required test cases.

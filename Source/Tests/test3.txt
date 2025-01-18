@@ -1,0 +1,6 @@
+ADD r2 r6 r8
+MUL r7 r11 r10
+LOAD r8 4(r1)
+STORE r8 12(r1)
+BEQ r1 r2 10
+RET

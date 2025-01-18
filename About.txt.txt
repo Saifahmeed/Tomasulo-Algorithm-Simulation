@@ -1,0 +1,30 @@
+==============================================
+Project: Tomasulo Algorithm Simulation
+Course: CSCE 3301 - Computer Architecture
+Fall 2024
+==============================================
+
+Student Names:
+- Saif Abd Elfattah
+- Adham Ali
+
+==============================================
+Release Notes
+==============================================
+
+1. Overview:
+   This project simulates the Tomasulo algorithm, an out-of-order execution algorithm used in computer architecture. The simulation focuses on implementing the basic components of Tomasulo's algorithm, including reservation stations, functional units, and register result forwarding. The system also supports branch prediction and handles the execution of various instructions.
+
+2. Issues: (All Solved)
+   - No major issues remain unresolved; all initial problems encountered during development were successfully addressed.
+
+3. Assumptions:
+   - For each program being executed, assume that the program and its data are fully loaded in the main memory.
+   - There is a one-to-one mapping between reservation stations and functional units. i.e., Each reservation station has a functional unit dedicated to it.
+   - No cache or virtual memory is implemented in this simulation, and all operations assume direct access to main memory.
+
+4. What Works:
+   - Simulation of the Tomasulo algorithm with the proper handling of instruction scheduling, reservation stations, and functional units.
+   - Complete execution unit class with functionality for issuing and writing back instructions, managing results, and handling hazards.
+   - Correct operation of the reservation station class and graphical user interface (GUI) for interaction.
+

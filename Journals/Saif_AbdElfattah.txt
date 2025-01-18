@@ -1,0 +1,7 @@
+3/12/2042: Developed the Execution Unit class.
+
+5/12/2042: Implemented the Reservation Station class and other functions
+
+6/12/2042: worked on creating the GUI.
+
+7/12/2042: Completed the project report, writing it in LaTeX.
